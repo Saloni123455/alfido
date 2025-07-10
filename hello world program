@@ -1,0 +1,7 @@
+//create a java program to print "hello world" on the console
+public class hello {
+    public static void main(String[] args) {
+        System.out.println("Hello, world!");
+    }
+
+}
